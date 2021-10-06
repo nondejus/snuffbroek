@@ -1,2 +1,0 @@
-# snuffbook
-bootleg
